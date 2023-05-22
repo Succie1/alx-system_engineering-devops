@@ -1,4 +1,4 @@
 # Mysql
 
 #AUTHOR
-Umar Faruq Adam<Umarfaruqadam03@gmail.com>
+Ogbeide Success<succexyhite90@gmail.com>

@@ -1,3 +1,3 @@
 # Load Balancer
 #AUTHOR 
-Adam Umar Faruq<umarfaruqadam03@gmail.com>
+Ogbeide Success<succexyhite90@gmail.com>

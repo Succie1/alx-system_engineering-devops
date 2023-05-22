@@ -1,3 +1,3 @@
 # 0x0E-web_stack_debugging_1
 #Author
-Umar Faruq Adam<umarfaruqadam03@gmail.com>
+Ogbeide Success<succexyhite90@gmail.com>
